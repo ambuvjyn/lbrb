@@ -140,7 +140,7 @@ This code chunk downloads most of these packages.  The code has been commented o
 ## GitHub packages
 ### requires devtools package and its function install_github()
 # library(devtools)
-# devtools::install_github("brouwern/combio4all")
+# devtools::install_github("brouwern/compbio4all")
 # devtools::install_github("YuLab-SMU/ggmsa")
 ```
 
